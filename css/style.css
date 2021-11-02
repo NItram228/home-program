@@ -34,12 +34,37 @@ h1, h2, h3, h4, h5, h6{
     position: absolute;
    transform: translate(40px, 20px);
 }
-.text{
-    width: 100%;
-    height: 200px;
-    background-color: turquoise;   
-}
 .logo{
     color: turquoise;
 
+}
+.center{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.text{
+ width: 1000px;
+
+ display: flex;
+ 
+ flex-direction: column;
+}
+a{
+    text-decoration: none;
+}
+.goal{
+
+ color: rgb(0, 255, 55);
+}
+.title-text{
+   margin: 10px auto; 
+
+}
+.paragraf-one{
+    font-size: 21px;
+}
+.goal-text{
+    font-size:26px;
+    color: rgb(0, 255, 55);
 }
