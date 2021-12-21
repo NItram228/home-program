@@ -9,9 +9,6 @@ body{
     background-position: center;
     width: 100%;
     
-    display: flex;
-    flex-direction: column;
-    align-items: center;
   
 }
 h2{
@@ -24,8 +21,7 @@ li{
 }
 .teaxt{
     width: 1000px;
-    margin-top: 60px;
-    ma
+    margin: 0 auto;
 
     display: flex;
     flex-direction: column; 
