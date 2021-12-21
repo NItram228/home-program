@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+.center{
+    background-image:linear-gradient(180deg, rgba(0, 0, 0, 0.8) 14.37%, rgba(100, 100, 100, 0.8) 100%), url(./../../img/center/center2.jpg) ;
+
+
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+h2{
+    padding-left: 40px;
+    color: red;
+    margin-bottom: 0;
+}
+li{
+    color: rgb(52, 253, 2);
+}
+.teaxt{
+    width: 1000px;
+    margin-top: 60px;
+    ma
+
+    display: flex;
+    flex-direction: column; 
+}
